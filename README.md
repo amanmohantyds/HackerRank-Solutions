@@ -1,4 +1,4 @@
-# Python-Practice
+# HackerRank-Solutions
 
 This repository contains my HackerRank solutions and Python programming practice.
 
