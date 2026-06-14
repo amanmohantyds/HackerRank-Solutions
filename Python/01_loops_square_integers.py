@@ -1,6 +1,8 @@
-#The provided code stub reads an integer,n, from STDIN. For all non-negative integers i<n , print i square.
-#Constraints are 1<=n<=20
+"""
+Problem: Loop and Square Integer
+Link: https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true
 
+"""
 if __name__ == '__main__':
     x = int(input())
     

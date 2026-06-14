@@ -1,8 +1,8 @@
-print("Leap Year Question")
+"""
+Problem: Check if leap year
+Link: https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true
 
-#Leap Year Questions
-#Q)->Given a year, determine whether it is a leap year. If it is a leap year, 
-                                            # return the Boolean True, otherwise return False.
+"""
 def is_leap(year):
     leap = False
     if year % 400 == 0:

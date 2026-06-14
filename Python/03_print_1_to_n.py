@@ -1,9 +1,8 @@
-print("Print a function using for loop without using range")
+"""
+Problem: print 1 to n
+Link: https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true
 
-#Print a function
-#Q)The included code stub will read an integer,n, from STDIN. Without using any string methods, 
-                                                                 # try to print the following: 1,2,3,
-
+"""
 if __name__ == '__main__':
     n = int(input())
     
