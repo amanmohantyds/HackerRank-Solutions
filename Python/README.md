@@ -9,3 +9,10 @@
 | 07 | Lists | [Code](./07_lists.py) | — |
 | 08 | Nested List | [Code](./08_nested_list.py) | [Lists](./notes/lists.md) |
 | 09 | Tuples | [Code](./09_tuples.py) | — |
+| 10 | Finding Percentage | [Code](./10_finding_percentage.py) | — |
+| 11 | String Split and Join | [Code](./11_string_split_and_join.py) | — |
+| 12 | What is your Name? | [Code](./12_what_is_your_name.py) | — |
+| 13 | Mutations | [Code](./13_mutations.py) | — |
+| 14 | Find a String | [Code](./14_find_a_string.py) | — |
+| 15 | List Comprehensions | [Code](./15_list_comprehensions.py) | — |
+| 16 | Map and Lambda Functions | [Code](./16_map_and_lambda_functions.py) | — |
