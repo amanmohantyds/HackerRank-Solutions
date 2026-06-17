@@ -16,3 +16,5 @@
 | 14 | Find a String | [Code](./14_find_a_string.py) | — |
 | 15 | List Comprehensions | [Code](./15_list_comprehensions.py) | — |
 | 16 | Map and Lambda Functions | [Code](./16_map_and_lambda_functions.py) | — |
+| 17 | Exceptions | [Code](./17_exception.py) | [Loops](./notes/exceptions.md) |
+| 18 | Incorrect Regex | [Code](./18_incorrect_regex.py) | [Loops](./notes/exceptions.md) |
